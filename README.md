@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KaleIsPale
-- 👀 I’m interested in Programming and Software development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Small simple projects based on python and c++
-- 📫 How to reach me - itzrealkraken@gmail.com
+- 👋 Hi, I’m @KrakenIsBusy
+- 👀 I’m interested in Programming and Machine Learning
+- 🌱 I’m currently learning about AI
+- 💞️ I’m looking to collaborate on projects related to data science
+- 📫 How to reach me - kanavsunil09@gmail.com
 
 <!---
 KaleIsPale/KaleIsPale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
